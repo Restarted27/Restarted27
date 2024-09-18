@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Restarted27
-- 👀 I’m interested in Game and Software Developement.
+- 👀 I’m interested in Games, Technology and Software Developement.
 - 📫 How to reach me: Contact me via email @ jamesjuksie+git@gmail.com
 - 🌱 I’m currently learning SQL and Python for web implementation.
 <!---
