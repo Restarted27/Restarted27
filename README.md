@@ -2,6 +2,7 @@
 - 👀 I’m interested in Games, Technology and Software Developement.
 - 📫 How to reach me: Contact me via email @ jamesjuksie+git@gmail.com
 - 🌱 I’m currently learning SQL and Python for web implementation.
+
 -Newly experienced at video editing with Premiere Pro and Animation work in Blender🎥
 <!---
 Restarted27/Restarted27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
