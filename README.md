@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Restarted27
-- 👀 I’m interested in Games, Technology and Software Developement.
+- 👀 I’m interested in Games, Technology and Software Development.
 - 📫 How to reach me: Contact me via email @ jamesjuksie+git@gmail.com
-- 🌱 I’m currently learning SQL and Python for web implementation.
+- 🌱 I’m currently learning SharePoint and the Power Platform (Microsoft 365).
 
 -Newly experienced at video editing with Premiere Pro and Animation work in Blender🎥
 <!---
